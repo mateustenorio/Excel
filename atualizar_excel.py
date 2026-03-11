@@ -48,4 +48,4 @@ finally:
     del excel
     gc.collect()
 
-print("Atualização concluída e XLSX criado com datas corrigidas.")
+print("Atualização concluída.")
