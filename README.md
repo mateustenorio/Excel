@@ -62,6 +62,4 @@ Fluxo da automação:
 6. Gera uma cópia `.xlsx`
 7. Fecha o Excel automaticamente
 
----
 
-# Estrutura do projeto
